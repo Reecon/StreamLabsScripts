@@ -69,7 +69,7 @@ It's a simple donation bar, but it combines StreamLabs donations and Cheers in y
 
 ## RaidBot
 
-[Repository](https://github.com/Reecon/SLCombinedDonationBar "CombinedDonationBar Repository")
+[Repository](https://github.com/Reecon/SLRaidBot "RaidBot Repository")
 
 In early development.
 
