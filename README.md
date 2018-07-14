@@ -35,7 +35,7 @@ A simple script that allows people to whisper the bot for TextToSpeech. It uses 
 
 [Latest Release](https://github.com/Reecon/SLCareBearStare/releases/latest "CareBearStare Latest Release")
 
-This script is alternative to the normal shoutout command. What makes this special is the ability to to define custom responses based on the shoutout target.
+This script is alternative to the normal shoutout command. What makes this special is the ability to define custom responses based on the shoutout target.
 
 It also comes with an overlay which shows the targets user image and the defined blurb. It's simple HTML that can be animated with CSS in OBS's browser source settings, for example.
 
@@ -75,7 +75,7 @@ In early development.
 
 Keeps track of channel you raid/host and channels that raid/host you. You can also add channels manually.
 
-The website shows you a quick overview of the channels that raided/hosted you and that you hosted/raided. The list is sorted in reverse order of the last channel you hosted. It also shows who is currently online and what they are streaming.
+The website shows you a quick overview of the channels that raided/hosted you and that you raided/hosted. The list is sorted in reverse order of the last channel you hosted. It also shows who is currently online and what they are streaming.
 
 Screenshot of the current UI with example data.
 
