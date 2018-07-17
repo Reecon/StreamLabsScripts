@@ -25,7 +25,8 @@ And here is a screenshot of the UI in the bot.
 
 [Latest Release](https://github.com/Reecon/SLSingularity/releases/latest "Singularity Latest Release")
 
-A simple script that allows people to whisper the bot for TextToSpeech. It uses the built in Windows TTS engine and voices.
+A simple script that allows people to whisper the bot for TextToSpeech. It uses the built in Windows TTS engine and voices by default.
+Support for the full version of the Speech2Go app is also available.
 
 ![Singularity Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/Singularity.png "Singularity Bot UI")
 
