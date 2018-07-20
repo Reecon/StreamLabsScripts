@@ -4,6 +4,13 @@ Hey there! Thanks for checking out my scripting foo.
 
 Here is an overview of the stuff I made for the StreamLabs Chatbot. Give feedback, request features or improve/change things yourself :)
 
+- [CatchPhrases](#catchphrases)
+- [Singularity](#singularity)
+- [CareBearStare](#carebearstare)
+- [PetQueue](#petqueue)
+- [CombinedDonationBar](#combineddonationbar)
+- [RaidBot](#raidbot)
+
 ## CatchPhrases
 
 [Repository](https://github.com/Reecon/SLCatchPhrases "CatPhrases Repository")
