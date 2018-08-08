@@ -22,6 +22,16 @@ This catches phrases (get it? -.- ) or keywords you can define via regular expre
 The syntax for the config file looks like this:
 `/.*[wW].*[oO].*[wW].*/ "WOW"`
 
+You can also set custom permissions and cooldowns for each regex. The settings from the UI are used as defaults, in case no specifics were given.
+
+It is also possible to use `$parameters`. Currently `$username` and `$message` are supported.
+
+The regular expressions can also be used for auto modding.
+
+For example:
+
+`/\(\s*\.\s*([yY]|\)\s*\()\s*\.\s*\)/ 0 everyone "/timeout $username 600 rekt by regex for $message"`
+
 And here is a screenshot of the UI in the bot.
 
 ![CatchPhrases Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/CatchPhrases.png "CatchPhrases Bot UI")
