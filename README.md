@@ -69,6 +69,8 @@ It also comes with an overlay which shows the targets user image and the defined
 
 If you like seeing people's pets and don't want to miss any in chat, this is the thing for you! This gives folks a chat command that collects the links and displays them on a simple website, so you can go through them when the time is right.
 
+If you are to busy to open all those links yourself, you can make your mods do all the work for you with remote control through whispers.
+
 ![PetQueue WebUI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/PetQueueBrowser.png "PetQueue WebUI")
 
 ![PetQueue Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/PetQueue.png "PetQueue Bot UI")
