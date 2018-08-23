@@ -99,6 +99,7 @@ A simple queue that shows you a list of people saying hi to you.
 Can be filtered by keywords, emotes and user level.
 
 ![HelloQueue WebUI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/HelloQueueBrowser.png "HelloQueue WebUI")
+
 ![HelloQueue Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/HelloQueue.png "HelloQueue Bot UI")
 
 ## RaidBot
