@@ -9,6 +9,7 @@ Here is an overview of the stuff I made for the StreamLabs Chatbot. Give feedbac
 - [CareBearStare](#carebearstare)
 - [PetQueue](#petqueue)
 - [CombinedDonationBar](#combineddonationbar)
+- [HelloQueue](#helloqueue)
 - [RaidBot](#raidbot)
 
 ## CatchPhrases
@@ -86,6 +87,19 @@ It's a simple donation bar, but it combines StreamLabs donations and Cheers in y
 ![CombinedDonationBar Overlay](https://github.com/Reecon/StreamLabsScripts/raw/master/images/bar_animation.gif "CombinedDonationBar Overlay")
 
 ![CombinedDonationBar Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/ProgressBar.png "CombinedDonationBar Bot UI")
+
+## HelloQueue
+
+[Repository](https://github.com/Reecon/SLHelloQueue/tree/develop "HelloQueue Repository")
+
+In development.
+
+A simple queue that shows you a list of people saying hi to you.
+
+Can be filtered by keywords, emotes and user level.
+
+![HelloQueue WebUI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/HelloQueueBrowser.png "HelloQueue WebUI")
+![HelloQueue Bot UI](https://github.com/Reecon/StreamLabsScripts/raw/master/images/HelloQueue.png "HelloQueue Bot UI")
 
 ## RaidBot
 
